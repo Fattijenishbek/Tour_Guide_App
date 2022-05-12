@@ -29,7 +29,6 @@ class MallsFragment : Fragment() {
             Card(4,"https://www.akchabar.kg/media/news/1d018325-bb5a-41db-8e32-46dce8bd3e0f.jpg.850x445_q82_crop.jpg","Dordoi-Plaza","Dordoi Plaza is a department store in Bishkek. Dordoi Plaza is situated northwest of Tokoldosh, close to Kyrgyz Opera and Ballet Theater.","0312 623 000","VJF9+XHV, Бишкек","42.87507510429466, 74.61894282638136"),
             Card(5,"https://media-cdn.tripadvisor.com/media/photo-s/12/a0/14/25/getlstd-property-photo.jpg","Vefa","VEFA is a modern comfortable business center for your business and leisure located in the very heart of the city.","0772 554 090","27, 1 Горький көчөсү, Бишкек","42.85777269729432, 74.60952502638071"),
             Card(6,"https://www.retailspace.kz/storage/objects/201712/1325031.1.1471946238.jpg","GUM Chynar Mall","Fancy place to go shopping - See traveler reviews, candid photos, and great deals for Bishkek, Kyrgyzstan, at Tripadvisor. ","0555 875 500","92 просп. Чуй, Бишкек","42.87571114057387, 74.61448992638138"),
-            Card(7,"https://www.retailspace.kz/storage/objects/201712/1325031.1.1471946238.jpg","GUM Chynar Mall","Fancy place to go shopping - See traveler reviews, candid photos, and great deals for Bishkek, Kyrgyzstan, at Tripadvisor. ","0555 875 500","92 просп. Чуй, Бишкек","42.87571114057387, 74.61448992638138"),
 
         )
 
