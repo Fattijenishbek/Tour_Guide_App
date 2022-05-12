@@ -3,7 +3,12 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/en/0/07/Ala-Too_International_University_Seal.png" width="20%" />
 
-## Author: Natalia Maiatskaia COM19-A
+## Author: 
+### Asel Esra Ozyilmaz COM19-A
+### Fatima Bekmamatova COM19-A
+### Osman Yasir Ozyilmaz COM19-A
+### Mirkhad Chekirbaev COM19-A
+### Natalia Maiatskaia COM19-A
 
 Tour Guide is a multy-screen app which was written on Android using kotlin language. It presents relevant information
 to a user who’s visiting Bishkek city. The app lists top malls, restaurants, and hotels.
