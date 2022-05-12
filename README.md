@@ -23,4 +23,4 @@ The gif of this app is listed below:
 
 ![Alt Text](https://github.com/MIA1kl/Tour-Guide-App/blob/master/ezgif.com-gif-maker%20(1).gif?raw=true)
 
-In this app I used MVVM architecture with viewBuindings and Glide. Also for changing fragments by scrolling right and left I used tabLayout.
+In this app we used MVVM architecture with viewBuindings and Glide. Also for changing fragments by scrolling right and left I used tabLayout.
