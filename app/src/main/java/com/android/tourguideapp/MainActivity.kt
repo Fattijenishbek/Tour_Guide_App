@@ -66,8 +66,8 @@ class MainActivity : AppCompatActivity() {
         val vg = tabLayout.getChildAt(0) as ViewGroup
         val tabsCount = vg.childCount
 
-        for (j in 0 until tabsCount) {
-            val vgTab = vg.getChildAt(j) as ViewGroup
+        for (jIndex in 0 until tabsCount) {
+            val vgTab = vg.getChildAt(jIndex) as ViewGroup
 
             val tabChildCount = vgTab.childCount
 
